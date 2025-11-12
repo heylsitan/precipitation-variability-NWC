@@ -1,7 +1,7 @@
 # Precipitation Variability Analysis for Northwest China
 
-**Associated Paper**: [To be updated with your JGRA manuscript title and DOI]
-**Authors**: [Your names]
+**Associated Paper**: The Influence of precipitation recycling processes on summer precipitation variability over Northwest China
+**Authors**: Yongli He, Zhen Tang, Chutao Lan, Boyuan Zhang, Jingjing Jia, Haipeng Yu
 **Journal**: Journal of Geophysical Research: Atmospheres (JGRA)
 **Contact**: heyongli@lzu.edu.cn
 
